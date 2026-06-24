@@ -198,9 +198,3 @@ Blockchain merupakan teknologi penyimpanan data terdistribusi yang mengandalkan 
 Melalui project ini diperoleh pemahaman mengenai konsep dasar matematika dan keamanan yang menjadi fondasi teknologi blockchain modern.
 
 ---
-
-## 👩‍💻 Author
-
-Rimawati  
-NIM : 240511184  
-Program Studi S1 Teknik Informatika
